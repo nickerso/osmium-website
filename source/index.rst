@@ -26,14 +26,14 @@ In the following, we briefly introduce the various constituents of the Osmium fr
 Physiome Model Repository
 =========================
 
+The `Physiome Model Repository <https://models.physiomeproject.org>`_ (PMR) is an extensive repository of computational models, predominantly of physiological systems but also containing a range of mathematical models (including some classical physics examples). As various components of the Osmium framework are developed they will be incorporated into the PMR instance. As such, the :ref:`PMR documentation <abi-pmr2-index>` included here will be updated to reflect the modifications, additions, and capabilities.
+
+PMR is the exemplar repository that provides the primary public view of Osmium.
+
 .. toctree::
    :hidden:
    
    pmr/index
-
-The Physiome Model Repository (PMR) is an extensive repository of computational models, predominantly of physiological systems but also containing a range of mathematical models (including some classical physics examples). As various components of the Osmium framework are developed they will be incorporated into the PMR instance. As such, the :ref:`PMR documentation <abi-pmr2-index>` included here will be updated to reflect the modifications, additions, and capabilities.
-
-PMR is the exemplar repository that provides the primary public view of Osmium.
 
 .. _osmium_repodono:
 
